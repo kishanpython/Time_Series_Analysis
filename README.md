@@ -10,7 +10,7 @@ This project is based on forecasting. By using ARIMA and SARIMA models, we FOREC
 # Notebooks:-
 
 <ul>
-<li><a href="https://github.com/kishanpython/Time_Series_Analysis/blob/master/TSAF_Monthly_Milk_Productions.ipynb">Milk Production Forecasting</a></li>
+<li><a href="https://github.com/kishanpython/Time_Series_Analysis/blob/master/TSAF_Monthly_Milk_Productions.ipynb">Milk Production Forecasting.ipynb</a></li>
 
-<li><a href="https://github.com/kishanpython/Time_Series_Analysis/blob/master/TSAF_HospitalityEmployees.ipynb">Hospitality Employees Forecasting</a></li>
+<li><a href="https://github.com/kishanpython/Time_Series_Analysis/blob/master/TSAF_HospitalityEmployees.ipynb">Hospitality Employees Forecasting.ipynb</a></li>
 </ul>
