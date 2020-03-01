@@ -1,5 +1,6 @@
 # Time_Series_Analysis
 This project is based on forecasting. By using ARIMA and SARIMA models, we FORECAST the data of different datasets.
+<img src="https://github.com/kishanpython/Time_Series_Analysis/blob/master/Data/ibm.png"></img>
 
 # Dataset :-
 <ul>
