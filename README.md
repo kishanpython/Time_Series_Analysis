@@ -1,5 +1,4 @@
 # Time_Series_Analysis 
-# Projects:-
 
 This repository is based on time series forecasting. By using ARIMA, SARIMA and LSTM models, we FORECAST the data of different datasets.
 <img src="https://github.com/kishanpython/Time_Series_Analysis/blob/master/Data/ibm.png"></img>
